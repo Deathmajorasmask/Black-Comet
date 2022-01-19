@@ -1,0 +1,42 @@
+﻿  applicationclass.cpp
+c:\carpeta de documentos\fcfm portafolio\c++_directx11_blackcomet\engine\applicationclass.cpp(834): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\carpeta de documentos\fcfm portafolio\c++_directx11_blackcomet\engine\applicationclass.cpp(939): warning C4244: 'argument' : conversion from 'int' to 'FLOAT', possible loss of data
+c:\carpeta de documentos\fcfm portafolio\c++_directx11_blackcomet\engine\applicationclass.cpp(947): warning C4244: 'argument' : conversion from 'int' to 'FLOAT', possible loss of data
+c:\carpeta de documentos\fcfm portafolio\c++_directx11_blackcomet\engine\applicationclass.cpp(961): warning C4244: 'argument' : conversion from 'int' to 'FLOAT', possible loss of data
+c:\carpeta de documentos\fcfm portafolio\c++_directx11_blackcomet\engine\applicationclass.cpp(970): warning C4244: 'argument' : conversion from 'int' to 'FLOAT', possible loss of data
+c:\carpeta de documentos\fcfm portafolio\c++_directx11_blackcomet\engine\applicationclass.cpp(983): warning C4244: 'argument' : conversion from 'int' to 'FLOAT', possible loss of data
+c:\carpeta de documentos\fcfm portafolio\c++_directx11_blackcomet\engine\applicationclass.cpp(1177): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+c:\carpeta de documentos\fcfm portafolio\c++_directx11_blackcomet\engine\applicationclass.cpp(1192): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+c:\carpeta de documentos\fcfm portafolio\c++_directx11_blackcomet\engine\applicationclass.cpp(1207): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+c:\carpeta de documentos\fcfm portafolio\c++_directx11_blackcomet\engine\applicationclass.cpp(1222): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+c:\carpeta de documentos\fcfm portafolio\c++_directx11_blackcomet\engine\applicationclass.cpp(1237): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+c:\carpeta de documentos\fcfm portafolio\c++_directx11_blackcomet\engine\applicationclass.cpp(1252): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+c:\carpeta de documentos\fcfm portafolio\c++_directx11_blackcomet\engine\applicationclass.cpp(1268): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+c:\carpeta de documentos\fcfm portafolio\c++_directx11_blackcomet\engine\applicationclass.cpp(1270): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+c:\carpeta de documentos\fcfm portafolio\c++_directx11_blackcomet\engine\applicationclass.cpp(1289): warning C4305: '+=' : truncation from 'double' to 'float'
+c:\carpeta de documentos\fcfm portafolio\c++_directx11_blackcomet\engine\applicationclass.cpp(1290): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\carpeta de documentos\fcfm portafolio\c++_directx11_blackcomet\engine\applicationclass.cpp(1314): warning C4305: '+=' : truncation from 'double' to 'float'
+c:\carpeta de documentos\fcfm portafolio\c++_directx11_blackcomet\engine\applicationclass.cpp(1315): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\carpeta de documentos\fcfm portafolio\c++_directx11_blackcomet\engine\applicationclass.cpp(1339): warning C4305: '+=' : truncation from 'double' to 'float'
+c:\carpeta de documentos\fcfm portafolio\c++_directx11_blackcomet\engine\applicationclass.cpp(1340): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\carpeta de documentos\fcfm portafolio\c++_directx11_blackcomet\engine\applicationclass.cpp(1364): warning C4305: '+=' : truncation from 'double' to 'float'
+c:\carpeta de documentos\fcfm portafolio\c++_directx11_blackcomet\engine\applicationclass.cpp(1365): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\carpeta de documentos\fcfm portafolio\c++_directx11_blackcomet\engine\applicationclass.cpp(1389): warning C4305: '+=' : truncation from 'double' to 'float'
+c:\carpeta de documentos\fcfm portafolio\c++_directx11_blackcomet\engine\applicationclass.cpp(1390): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\carpeta de documentos\fcfm portafolio\c++_directx11_blackcomet\engine\applicationclass.cpp(1414): warning C4305: '+=' : truncation from 'double' to 'float'
+c:\carpeta de documentos\fcfm portafolio\c++_directx11_blackcomet\engine\applicationclass.cpp(1415): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\carpeta de documentos\fcfm portafolio\c++_directx11_blackcomet\engine\applicationclass.cpp(1516): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\carpeta de documentos\fcfm portafolio\c++_directx11_blackcomet\engine\applicationclass.cpp(1559): warning C4305: '+=' : truncation from 'double' to 'float'
+c:\carpeta de documentos\fcfm portafolio\c++_directx11_blackcomet\engine\applicationclass.cpp(1560): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\carpeta de documentos\fcfm portafolio\c++_directx11_blackcomet\engine\applicationclass.cpp(1598): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\carpeta de documentos\fcfm portafolio\c++_directx11_blackcomet\engine\applicationclass.cpp(1804): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\carpeta de documentos\fcfm portafolio\c++_directx11_blackcomet\engine\applicationclass.cpp(1881): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\carpeta de documentos\fcfm portafolio\c++_directx11_blackcomet\engine\applicationclass.cpp(1995): warning C4305: '+=' : truncation from 'double' to 'float'
+c:\carpeta de documentos\fcfm portafolio\c++_directx11_blackcomet\engine\applicationclass.cpp(2006): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+c:\carpeta de documentos\fcfm portafolio\c++_directx11_blackcomet\engine\applicationclass.cpp(2022): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+  Generating Code...
+  Compiling...
+  systemclass.cpp
+  main.cpp
+  Generating Code...
+  Engine.vcxproj -> C:\Carpeta de documentos\FCFM Portafolio\C++_DirectX11_BlackComet\Debug\Engine.exe
