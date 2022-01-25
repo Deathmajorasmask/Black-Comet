@@ -131,6 +131,6 @@ Project Link: [https://github.com/Deathmajorasmask/Black-Comet](https://github.c
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [screenshot]: Images/Screen01.JPG
-[screenshot04]: Images/Screen02.JPG
-[screenshot05]: Images/Screen03.JPG
-[screenshot06]: Images/Screen04.JPG
+[screenshot01]: Images/Screen02.JPG
+[screenshot02]: Images/Screen03.JPG
+[screenshot03]: Images/Screen04.JPG
